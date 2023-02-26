@@ -1,0 +1,5 @@
+.teacher__element {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}

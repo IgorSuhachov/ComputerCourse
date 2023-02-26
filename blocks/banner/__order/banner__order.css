@@ -1,0 +1,12 @@
+.banner__order {
+    color: #fff;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 38px;
+    background: linear-gradient(94.29deg, #535AA5 11.08%, #212E62 73.38%);
+    border-radius: 50px;
+    border: none;
+    padding: 20px 55px;
+    width: 323px;
+    margin: 0 auto;
+}

@@ -1,0 +1,6 @@
+.partners__images {
+	display: grid;
+	grid-template-columns: repeat(4, 230px);
+	justify-content: center;
+	gap: 52px;
+}

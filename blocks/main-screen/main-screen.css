@@ -1,0 +1,8 @@
+.main-screen {
+    height: 640px;
+    background-image: url(../../images/main-screen__bgc.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: top right;
+    background-color: #000;
+}
